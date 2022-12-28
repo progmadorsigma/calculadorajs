@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: silver;
+}
+.primeiro {
+     width: 200px;
+     border-radius: 10px;
+}
+.segundo {
+    width: 200px;
+    border-radius: 10px;
+}
